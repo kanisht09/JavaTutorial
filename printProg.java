@@ -1,4 +1,4 @@
-public class printProg {
+public class PrintProg {
     public static void main(String args[]) {
 
         /* Print statements in Java Language */
@@ -12,7 +12,10 @@ public class printProg {
         System.out.println(y); // prints a double value , y
 
         String z = "Hello Java";
-        System.out.print(z); // prints a string , z
+        System.out.println(z); // prints a string , z
+
+        long k = (1 << 5); // prints a long value, k
+        System.out.println(k);
 
     }
 }
