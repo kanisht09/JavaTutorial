@@ -1,7 +1,7 @@
 public class printProg {
     public static void main(String args[]) {
 
-        /* Print statements in Java */
+        /* Print statements in Java Language */
 
         System.out.println("Hello"); // prints "Hello" with '/n'
         System.out.print("Hi"); // prints "Hi" without '/n'
