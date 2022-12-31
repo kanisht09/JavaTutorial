@@ -1,6 +1,8 @@
 public class DataTypes {
     public static void main(String[] args) {
 
+        /* Data types in Java -> only primitive shown here */
+
         byte age = 5;
         System.out.println(age); // prints a value of type byte, age
 
@@ -32,7 +34,5 @@ public class DataTypes {
         c = false;
         System.out.println(c);
 
-        String z = "Hello Java";
-        System.out.println(z); // prints a string , z
     }
 }
