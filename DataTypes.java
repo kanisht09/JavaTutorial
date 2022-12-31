@@ -25,7 +25,7 @@ public class DataTypes {
         float yf = 2.232f; // we need to write f in the end of the decimal number
         System.out.println(yf); // prints a float value, yf
 
-        long kl = (1 << 5);
+        long kl = 2839393L; // we need to write L or l in the end of a long number
         System.out.println(kl); // prints a long value, k
 
         boolean c = true;
