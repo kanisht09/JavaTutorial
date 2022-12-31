@@ -9,7 +9,7 @@ There are two types of data-types in Java : Primitive and Non-Primitive data-typ
 
   - byte
   - short
-  - bool
+  - boolean
   - int
   - char
   - float
@@ -31,6 +31,7 @@ There are two types of data-types in Java : Primitive and Non-Primitive data-typ
 - float 4 bytes
 - double 8 bytes
 - long 8 bytes
+- boolean :- size depends on JVM (Java Virtual Machine)
 
 #### NOTE : In Java char consumes 2 bytes unlike in C/C++ where it consumes only 1 byte.
 
