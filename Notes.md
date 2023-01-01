@@ -39,3 +39,12 @@ This is because char in Java also supports unicode.
 
 - To get the maximum value of long in Java we can use Long.MAX_VALUE and to get the minimum value of long in Java we can use Long.MIN_VALUE.
 - To get the maximum value of int in Java we can use Integer.MAX_VALUE and to get the minimum value of int in Java we can use Integer.MIN_VALUE.
+
+#### Strings are immutable in Java .
+
+For printing in Java we can use :
+
+- System.out.print()
+- System.out.println() // same as System.out.print() with additional '/n' character
+- System.out.printf() // format specifier -> similar to C
+- System.out.format() // format specifier
