@@ -1,5 +1,9 @@
 public class Method {
     
+    static void tellJoke(){
+        System.out.println("I invented a new word\n"+"Plagiarism");
+    }
+
     static int fun(int x,int y){   // note : x and y are new copies of the parameters passed.
         
         /*
@@ -52,7 +56,6 @@ public class Method {
         res=obj.sum(5,6);    // Method invocation using object creation
         System.out.println(res);
 
-
-
+        tellJoke();
     }
 }
