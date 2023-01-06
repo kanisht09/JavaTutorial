@@ -59,3 +59,6 @@ For printing in Java we can use :
 - System.out.println() // same as System.out.print() with additional '/n' character
 - System.out.printf() // format specifier -> similar to C
 - System.out.format() // format specifier
+
+In case of arrays reference is passed and same is the case for objects being passed in methods.
+Two or more methods can have same name but different parameters.Such methods are called overloaded methods.
