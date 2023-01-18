@@ -71,3 +71,13 @@ Inheritance : The act of deriving new things from existing things
 Polymorphism : One entity many forms
 
 IMP :In one Java file we can only have 1 public class.
+
+Access Modifiers in Java :-
+
+- private
+- default
+- public
+- protected
+
+Random obj = new Random();
+int x=obj.nextInt(l,r); // here l denotes starting value and r denotes the bound
