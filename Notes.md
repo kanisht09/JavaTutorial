@@ -62,3 +62,10 @@ For printing in Java we can use :
 
 In case of arrays reference is passed and same is the case for objects being passed in methods.
 Two or more methods can have same name but different parameters.Such methods are called overloaded methods.
+
+OOPS Terminologies
+
+Abstraction : Hiding internal details (show only necessary information)
+Encapsulation : Wrapping of data into a single unit
+Inheritance : The act of deriving new things from existing things
+Polymorphism : One entity many forms
