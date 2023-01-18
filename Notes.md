@@ -48,12 +48,22 @@ There are two types of data-types in Java : Primitive and Non-Primitive data-typ
 - double -> 0.0d
 - char -> '\u0000'
 
+<br/>
+
 ### NOTE : In Java char consumes 2 bytes unlike in C/C++ where it consumes only 1 byte.
+
+<br/>
 
 This is because char in Java also supports unicode.
 
 - To get the maximum value of long in Java we can use Long.MAX_VALUE and to get the minimum value of long in Java we can use Long.MIN_VALUE.
 - To get the maximum value of int in Java we can use Integer.MAX_VALUE and to get the minimum value of int in Java we can use Integer.MIN_VALUE.
+
+### To get value of pi in Java use :
+
+```
+double c=Math.PI;
+```
 
 ### Strings are immutable in Java .
 
