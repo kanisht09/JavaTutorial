@@ -69,6 +69,20 @@ System.out.printf() // format specifier -> similar to C
 System.out.format() // format specifier
 ```
 
+### Converting string to integer in java
+
+```
+  String s="5";
+  int x=Integer.parseInt(s);
+```
+
+### Converting integer to string in java
+
+```
+  int x=6;
+  String s=Integer.toString(x);
+```
+
 In case of arrays reference is passed and same is the case for objects being passed in methods.
 Two or more methods can have same name but different parameters.Such methods are called overloaded methods.
 
@@ -94,3 +108,5 @@ Access Modifiers in Java :-
 Random obj = new Random();
 int x=obj.nextInt(l,r); // here l denotes starting value and r denotes the bound
 ```
+
+Constructor - a member function used to initialize an object while creating it.
