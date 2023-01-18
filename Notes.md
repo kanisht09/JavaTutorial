@@ -70,4 +70,4 @@ Encapsulation : Wrapping of data into a single unit
 Inheritance : The act of deriving new things from existing things
 Polymorphism : One entity many forms
 
-In one Java file we can only have 1 public class.
+IMP :In one Java file we can only have 1 public class.
