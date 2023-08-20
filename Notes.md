@@ -1,3 +1,5 @@
+Download Java from [here](https://www.oracle.com/java/technologies/)
+
 - For classes we use Pascal Convention for naming.
 - For functions we use Camel Convention for naming.
 
